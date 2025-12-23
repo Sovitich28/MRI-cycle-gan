@@ -35,7 +35,7 @@ The Jupyter notebook included in this repository details the complete process of
 ## Training Progress
 Below is a visualization of the training progress over epochs:
 
-![Training Progress](cyclegan_mri.gif)
+![Training Progress](DSC43_animated_cycleGAN_100_epochs.gif)
 
 ## Screenshots
 
