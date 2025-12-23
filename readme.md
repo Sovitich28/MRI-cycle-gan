@@ -52,6 +52,7 @@ Below is a visualization of the training progress over epochs:
 - `requirements.txt`: List of Python dependencies.
 - `T2_T1_MRI_GAN.ipynb`: Jupyter notebook containing the training logic and model development.
 - `cyclegan_mri.gif`: GIF showing the training evolution.
+- `Report_MRI IMAGE TRANSLATION USING CYCLEGAN WITH U-NET.pdf`: Report of the project
 
 ## Installation
 
